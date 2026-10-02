@@ -1,0 +1,21 @@
+{
+  "name": "olachill",
+  "version": "2.2.1",
+  "description": "OlaChill Travel MCP: Japan tours, activities, tickets, ryokan, helicopter flights, airport transfers, charter coaches, golf, chauffeured cars, eSIM and booking status. Hosted MCP at https://olachill.com/mcp. No local code execution.",
+  "author": {
+    "name": "MIA Co., Ltd.",
+    "email": "partners@olachill.com",
+    "url": "https://olachill.com"
+  },
+  "homepage": "https://olachill.com",
+  "license": "MIT",
+  "keywords": [
+    "olachill",
+    "olachill travel",
+    "olachill tours",
+    "olachill japan"
+  ],
+  "domains": [
+    "olachill.com"
+  ]
+}
