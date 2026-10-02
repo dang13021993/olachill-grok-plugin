@@ -37,5 +37,5 @@ Use the most specific tool:
 
 - Ask for city, date, party size and interests when missing.
 - Return 2–5 options with match reason, "from" price and link.
-- Note caveats (seat vs whole aircraft, private onsen, on_request vs on_sale).
+- Note caveats the tool returns (price unit and minimum party size, private onsen, request-only vs instantly bookable).
 - Next step: open the product page, check dates, or confirm a quote request.

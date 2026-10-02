@@ -1,13 +1,14 @@
 {
   "name": "olachill",
-  "version": "2.2.1",
-  "description": "OlaChill Travel MCP: Japan tours, activities, tickets, ryokan, helicopter flights, airport transfers, charter coaches, golf, chauffeured cars, eSIM and booking status. Hosted MCP at https://olachill.com/mcp. No local code execution.",
+  "version": "1.0.0",
+  "description": "OlaChill travel in Japan via the hosted OlaChill MCP server (https://olachill.com/mcp): tours, activities, attraction tickets, ryokan, helicopter flights, private airport transfers, charter coaches, golf, chauffeured cars, Japan eSIM and booking status. No API key, no local code execution.",
   "author": {
-    "name": "MIA Co., Ltd.",
+    "name": "MIA Co., Ltd. (OlaChill)",
     "email": "partners@olachill.com",
     "url": "https://olachill.com"
   },
-  "homepage": "https://olachill.com",
+  "homepage": "https://olachill.com/developers",
+  "repository": "https://github.com/dang13021993/olachill-grok-plugin",
   "license": "MIT",
   "keywords": [
     "olachill",
@@ -15,7 +16,5 @@
     "olachill tours",
     "olachill japan"
   ],
-  "domains": [
-    "olachill.com"
-  ]
+  "logo": "assets/logo.png"
 }
