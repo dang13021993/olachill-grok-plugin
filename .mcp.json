@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "olachill": {
+      "type": "streamable-http",
+      "url": "https://olachill.com/mcp"
+    }
+  }
+}
