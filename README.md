@@ -1,6 +1,6 @@
 # OlaChill — Grok Build plugin
 
-Official Grok Build plugin for [OlaChill](https://olachill.com) (MIA Co., Ltd., Kyoto, Japan).
+Official Grok Build plugin for [OlaChill](https://olachill.com) (MIA Co., Ltd., Osaka, Japan).
 
 This repository is the plugin shell only: manifest, one skill, and MCP client config.
 Product data, prices and bookings stay on OlaChill. Nothing here executes local shell or reads secrets.
